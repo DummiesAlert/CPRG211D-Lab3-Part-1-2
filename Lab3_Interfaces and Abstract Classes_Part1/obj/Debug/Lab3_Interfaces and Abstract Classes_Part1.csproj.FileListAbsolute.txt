@@ -1,0 +1,8 @@
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab3_Interfaces and Abstract Classes_Part1\bin\Debug\Lab3_Interfaces and Abstract Classes_Part1.exe.config
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab3_Interfaces and Abstract Classes_Part1\bin\Debug\Lab3_Interfaces and Abstract Classes_Part1.exe
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab3_Interfaces and Abstract Classes_Part1\bin\Debug\Lab3_Interfaces and Abstract Classes_Part1.pdb
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab3_Interfaces and Abstract Classes_Part1\obj\Debug\Lab3_Interfaces and Abstract Classes_Part1.csproj.AssemblyReference.cache
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab3_Interfaces and Abstract Classes_Part1\obj\Debug\Lab3_Interfaces and Abstract Classes_Part1.csproj.SuggestedBindingRedirects.cache
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab3_Interfaces and Abstract Classes_Part1\obj\Debug\Lab3_Interfaces and Abstract Classes_Part1.csproj.CoreCompileInputs.cache
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab3_Interfaces and Abstract Classes_Part1\obj\Debug\Lab3_Interfaces and Abstract Classes_Part1.exe
+C:\SAIT-\SAIT_WINTER_2023\OOP 2\Lab3_Interfaces and Abstract Classes_Part1\obj\Debug\Lab3_Interfaces and Abstract Classes_Part1.pdb
